@@ -1,1 +1,1 @@
-![Image of Spytocat](https://octodex.github.com/privateinvestocat)
+I am new to github.
